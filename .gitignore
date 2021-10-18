@@ -1,4 +1,6 @@
 venv/
 .idea/
+data/
+jupyter_notebooks/.ipynb_checkpoints/
 
 main.py
